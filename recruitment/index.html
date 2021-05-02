@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Webcomponents exercise</title>
+    <script src="./node_modules/@webcomponents/webcomponentsjs/webcomponents-bundle.js"></script>
+    <script src="./table-component.js" type="module"></script>
+</head>
+<body>
+<div>
+    <div>Bookstore depot data:</div>
+    <table-component
+            id='table1'
+            columns="Title,Author,Quantity,Unit Price,Total value"
+            summary="none,count,count,avg,sum"
+            fill-data-rules="2=4/3,3=4/2,4=2*3"
+            data="Captain Tripps,S. King,10,9,;American Nightmares,S. King,,10,40;Soul Survivors,S. King,8,,96;Hardcases,S. King,13,23,;No Man’s Land,S. King,,25,50;The Night Has Come,S. King,30,,900;The Sphinx,Graham Masterton,3,,300;Charnel House,Graham Masterton,,20,60;The Devils of D-Day,Graham Masterton,10,16,"
+    ></table-component>
+</div>
+</body>
+</html>

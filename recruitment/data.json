@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Captain Tripps",
+    "author": "S. King",
+    "quantity": 10,
+    "unit_price": 9,
+    "total_value": null
+  },
+  {
+    "title": "American Nightmares",
+    "author": "S. King",
+    "quantity": null,
+    "unit_price": 10,
+    "total_value": 40
+  },
+  {
+    "title": "Soul Survivors",
+    "author": "S. King",
+    "quantity": 8,
+    "unit_price": null,
+    "total_value": 96
+  },
+  {
+    "title": "Hardcases",
+    "author": "S. King",
+    "quantity": 13,
+    "unit_price": 23,
+    "total_value": null
+  },
+  {
+    "title": "No Man’s Land",
+    "author": "S. King",
+    "quantity": null,
+    "unit_price": 25,
+    "total_value": 50
+  },
+  {
+    "title": "The Night Has Come",
+    "author": "S. King",
+    "quantity": 30,
+    "unit_price": null,
+    "total_value": 900
+  },
+  {
+    "title": "The Sphinx",
+    "author": "Graham Masterton",
+    "quantity": 3,
+    "unit_price": null,
+    "total_value": 300
+  },
+  {
+    "title": "Charnel House",
+    "author": "Graham Masterton",
+    "quantity": null,
+    "unit_price": 20,
+    "total_value": 60
+  },
+  {
+    "title": "The Devils of D-Day",
+    "author": "Graham Masterton",
+    "quantity": 10,
+    "unit_price": 16,
+    "total_value": null
+  }
+]
